@@ -1,0 +1,10 @@
+# .gitignore — ignore the DSA Pattern file
+
+# Exact filename (with space) if present in the repo root
+DSA Pattern
+
+# Any file starting with "DSA Pattern." (e.g., "DSA Pattern.pdf")
+DSA Pattern.*
+
+# Common Java build artifacts (optional)
+*.class
