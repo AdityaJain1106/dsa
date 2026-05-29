@@ -3,6 +3,8 @@
 # Exact filename (with space) if present in the repo root
 DSA Pattern
 
+test.java
+
 # Any file starting with "DSA Pattern." (e.g., "DSA Pattern.pdf")
 DSA Pattern.*
 
